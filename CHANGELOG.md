@@ -4,6 +4,9 @@ Italian lexicon for MaryTTS
 [Unreleased]
 ------------
 
+[v0.1.1] - 2023-03-06
+---------------------
+
 ### Added
 
 - CI via GitHub Actions
@@ -27,5 +30,6 @@ Italian lexicon for MaryTTS
 
 Functional parity with MaryTTS v5.2
 
-[Unreleased]: https://github.com/marytts/marytts-lexicon-it/compare/v0.1.0...HEAD
-[v0.1.0]: https://github.com/marytts/marytts-lexicon-it/tree/v0.1.0
+[Unreleased]: https://github.com/marytts/marytts-lexicon-it/tree/master
+[v0.1.1]: https://github.com/marytts/marytts-lexicon-it/releases/tag/v0.1.1
+[v0.1.0]: https://github.com/marytts/marytts-lexicon-it/releases/tag/v0.1.0
